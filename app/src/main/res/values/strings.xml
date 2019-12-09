@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">WordScramble</string>
+    <string name="txtTitle">Word Scramble!</string>
+    <string name="btnStart">Start Game</string>
+    <string name="btnScore">Highscores</string>
+    <string name="txtHighscore">Highscore</string>
+    <string name="btnA">A</string>
+    <string name="btnB">B</string>
+    <string name="btnC">C</string>
+    <string name="btnD">D</string>
+    <string name="btnE">E</string>
+    <string name="btnF">F</string>
+    <string name="btnG">G</string>
+    <string name="btnH">H</string>
+    <string name="btnI">I</string>
+    <string name="btnL">L</string>
+    <string name="btnM">M</string>
+    <string name="btnN">N</string>
+    <string name="btnJ">J</string>
+    <string name="btnK">K</string>
+    <string name="btnO">O</string>
+    <string name="btnP">P</string>
+    <string name="btnQ">Q</string>
+    <string name="btnR">R</string>
+    <string name="btnS">S</string>
+    <string name="btnT">T</string>
+    <string name="btnU">U</string>
+    <string name="btnV">V</string>
+    <string name="btnW">W</string>
+    <string name="btnX">X</string>
+    <string name="btnY">Y</string>
+    <string name="btnZ">Z</string>
+    <string name="btnEnter">Enter</string>
+    <string name="btnRemove">Remove</string>
+    <string name="txtScore">Score</string>
+    <string name="txtGameover">Game Over!</string>
+</resources>
